@@ -1,8 +1,8 @@
 # News Search Engine
 
-The aim of this project is to build a search engine that is specially designed for retrieving News Articles. Itwill return the most relevant news articles for a given user query.
-The articles are being scraped from a website called politifact which obtains all the tweets done on politicsand shows whether they are true or fake by attaching a valid article to them.
-For this project, we have taken only the factual articles and have built a search engine with these articles asthe dataset.
+The aim of this project is to build a search engine that is specially designed for retrieving News Articles. It will return the most relevant news articles for a given user query.
+The articles are being scraped from a website called politifact which obtains all the tweets done on politics and shows whether they are true or fake by attaching a valid article to them.
+For this project, we have taken only the factual articles and have built a search engine with these articles as the dataset.
 
 ## Key Points:
 <ol>
